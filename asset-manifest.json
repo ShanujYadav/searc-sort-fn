@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/searc-sort-fn/static/css/main.10c37d7a.css",
+    "main.js": "/searc-sort-fn/static/js/main.2c3ed50d.js",
+    "index.html": "/searc-sort-fn/index.html",
+    "main.10c37d7a.css.map": "/searc-sort-fn/static/css/main.10c37d7a.css.map",
+    "main.2c3ed50d.js.map": "/searc-sort-fn/static/js/main.2c3ed50d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c37d7a.css",
+    "static/js/main.2c3ed50d.js"
+  ]
+}
